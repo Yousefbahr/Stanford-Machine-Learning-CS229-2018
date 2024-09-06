@@ -119,7 +119,6 @@ def fit_naive_bayes_model(matrix, labels):
     # *** START CODE HERE ***
 
     # num for numerator
-
     # denom for denominator
     phi_num_y_1 = []
     phi_num_y_0 = []
