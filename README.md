@@ -1,2 +1,3 @@
 # Stanford-Machine-Learning-CS229-2018
-Problem sets solutions of the Stanford Machine Learning CS229 course of Autumn 2018.
+Solutions to the problem sets from Stanford's CS229 Machine Learning course, Autumn 2018.
+
