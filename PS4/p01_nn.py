@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import math
 
+
 MAX_POOL_SIZE = 5
 CONVOLUTION_SIZE = 4
 CONVOLUTION_FILTERS = 2
